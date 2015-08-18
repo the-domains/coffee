@@ -3,10 +3,17 @@
     <channel>
         <title><![CDATA[Untitled RSS Feed]]></title>
         <description><![CDATA[Untitled RSS Feed]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/coffee/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 18 Aug 2015 19:54:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 18 Aug 2015 19:55:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/coffee/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[In a barren wasteland of coffee (aka Western Michigan), an oasis emerges. It's been a very long week with bad coffee until I happened upon this gem in Grand Rapids.]]></title>
+            <description><![CDATA[<article><h1>In a barren wasteland of coffee (aka Western Michigan), an oasis emerges. It's been a very long week with bad coffee until I happened upon this gem in Grand Rapids.</h1><img src="https://igcdn-photos-g-a.akamaihd.net/hphotos-ak-xpa1/t51.2885-15/11191240_468979803277622_2099515517_n.jpg"></article>]]></description>
+            <link>https://instagram.com/p/492pnsDRak/</link>
+            <guid isPermaLink="false">db59ad56-534f-4c91-b8d2-d247ea9b5785</guid>
+            <pubDate>Tue, 18 Aug 2015 19:55:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cure for the blues ☕️ Repost from @theallischicago]]></title>
             <description><![CDATA[<article><h1>Cure for the blues ☕️ Repost from @theallischicago</h1><img src="https://igcdn-photos-b-a.akamaihd.net/hphotos-ak-xfp1/t51.2885-15/927105_1102933226388689_1768387216_n.jpg"></article>]]></description>
