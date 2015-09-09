@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Untitled RSS Feed]]></title>
-        <description><![CDATA[Untitled RSS Feed]]></description>
+        <title><![CDATA[Coffee]]></title>
+        <description><![CDATA[Coffee]]></description>
         <link>https://thegrid.ai/coffee/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 18 Aug 2015 19:55:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Sep 2015 19:16:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/coffee/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Favorite coffee spot in Dallas. Thanks to @kylesteed for the intro at @circlesconf last year! Missing you @jmleggott!]]></title>
+            <description><![CDATA[<article><h1>Favorite coffee spot in Dallas. Thanks to @kylesteed for the intro at @circlesconf last year! Missing you @jmleggott!</h1><img src="https://igcdn-photos-f-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/e35/11950644_1638211113126941_319082882_n.jpg"></article>]]></description>
+            <link>https://instagram.com/p/7a21ucjRbu/</link>
+            <guid isPermaLink="false">176d6ef4-1f59-47b6-9c30-e009232d9c45</guid>
+            <pubDate>Wed, 09 Sep 2015 19:15:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[In a barren wasteland of coffee (aka Western Michigan), an oasis emerges. It's been a very long week with bad coffee until I happened upon this gem in Grand Rapids.]]></title>
             <description><![CDATA[<article><h1>In a barren wasteland of coffee (aka Western Michigan), an oasis emerges. It's been a very long week with bad coffee until I happened upon this gem in Grand Rapids.</h1><img src="https://igcdn-photos-g-a.akamaihd.net/hphotos-ak-xpa1/t51.2885-15/11191240_468979803277622_2099515517_n.jpg"></article>]]></description>
