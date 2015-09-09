@@ -1,6 +1,6 @@
 name: Coffee
 favicon: null
-layout_spectrum: 0.88793
+layout_spectrum: 0.50862
 typography_spectrum: 0
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#e3b678'
     - '#d47b34'
     - '#e2e8e8'
-  brandStrength: 0.75
+  brandStrength: 0.5
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
