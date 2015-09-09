@@ -1,7 +1,6 @@
 name: Coffee
 favicon: null
-layout_spectrum: 0.50862
-typography_spectrum: 0
+layout_spectrum: 0.88168
 cta:
   domain: null
   bucket: null
