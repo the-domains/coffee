@@ -1,6 +1,6 @@
 name: Coffee
 favicon: null
-layout_spectrum: 0.56225
+layout_spectrum: 0.89001
 cta:
   domain: null
   bucket: null
@@ -15,13 +15,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#454753'
-    - '#f8f0ee'
-    - '#8d86b2'
-    - '#9e555a'
-    - '#e6795e'
-  brandStrength: 0.875
-  lightness: 0.5
-  saturation: 0.5
+    - '#edebee'
+    - '#070705'
+    - '#b3b8bc'
+    - '#493c2b'
+    - '#db933f'
+  brandStrength: 0.75
+  lightness: 0.1875
+  saturation: 0.3125
   rhythmicContrast: 0.75
 purpose: []
